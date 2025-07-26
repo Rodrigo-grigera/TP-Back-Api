@@ -1,0 +1,362 @@
+[
+  {
+    "nombre": "Guitarra acústica",
+    "tipo": "Cuerda",
+    "origen": "España",
+    "precio": 250.00,
+    "marca": "Yamaha",
+    "id": 1,
+    "img": "https://ar.xprostore.com/image/cache/data/imagenesweb/f310-650x650h.jpg"
+  },
+  {
+    "nombre": "Piano digital",
+    "tipo": "Teclado",
+    "origen": "Japón",
+    "precio": 899.99,
+    "marca": "Casio",
+    "id": 2,
+    "img":"https://www.heavenimagenes.com/heavencommerce/e11e0483-99c8-4ad2-b3a9-bfb26fc81402/images/v2/CASIO/1702022003419349_01_medium.jpg"
+  },
+  {
+    "nombre": "Violín clásico",
+    "tipo": "Cuerda",
+    "origen": "Italia",
+    "precio": 475.50,
+    "marca": "Cremona",
+    "id": 3,
+    "img":"https://acdn-us.mitiendanube.com/stores/004/667/527/products/tm-hv-50-34-22976c3355f40832cb17302960899072-1024-1024.jpg"
+  },
+  {
+    "nombre": "Flauta traversa",
+    "tipo": "Viento madera",
+    "origen": "Alemania",
+    "precio": 320.00,
+    "marca": "Yamaha",
+    "id": 4,
+    "img":"https://www.heavenimagenes.com/heavencommerce/0c3d234c-03b5-48ac-85a1-10e80752be67/images/v2/YAMAHA/1908141256108573_01_medium.jpg"
+  },
+  {
+    "nombre": "Bateria electrónica",
+    "tipo": "Percusión",
+    "origen": "Estados Unidos",
+    "precio": 1100.00,
+    "marca": "Roland",
+    "id": 5,
+    "img":"https://solomusica.com.ar/sm2020/6076-home_default/roland-spd-sx-special-edition-bateria-electrica.jpg"
+  },
+  {
+    "nombre": "Trompeta en Bb",
+    "tipo": "Viento metal",
+    "origen": "Francia",
+    "precio": 580.75,
+    "marca": "Bach",
+    "id": 6,
+    "img":"https://boutiquedevientos.com.ar/wp-content/uploads/2023/02/18037-trompeta-sib-laqueado-dorado-stradivarius-bach-brass-towsa.jpg"
+  },
+  {
+    "nombre": "Guitarra eléctrica",
+    "tipo": "Cuerda",
+    "origen": "Estados Unidos",
+    "precio": 750.00,
+    "marca": "Fender",
+    "id": 7,
+    "img":"https://http2.mlstatic.com/D_NQ_NP_897609-MLA72200297967_102023-O.webp"
+  },
+  {
+    "nombre": "Piano de cola",
+    "tipo": "Teclado",
+    "origen": "Alemania",
+    "precio": 15000.00,
+    "marca": "Steinway & Sons",
+    "id": 8,
+    "img":"https://http2.mlstatic.com/D_NQ_NP_694198-MLA83178706357_032025-O.webp"
+  },
+  {
+    "nombre": "Oboe",
+    "tipo": "Viento madera",
+    "origen": "Francia",
+    "precio": 1200.00,
+    "marca": "Buffet Crampon",
+    "id": 9,
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/M%C3%B6nnig%2C_Oboe_Modell_155_Albrecht_Mayer.jpg/1200px-M%C3%B6nnig%2C_Oboe_Modell_155_Albrecht_Mayer.jpg"
+  },
+  {
+    "nombre": "Saxofón alto",
+    "tipo": "Viento metal",
+    "origen": "Bélgica",
+    "precio": 980.00,
+    "marca": "Selmer",
+    "id": 10,
+    "img":"https://boutiquedevientos.com.ar/wp-content/uploads/2021/11/2313020076-saxo-alto-serie2-jubilee-mib-selmer-paris-towsa.jpg"
+  },
+  {
+    "nombre": "Trombón",
+    "tipo": "Viento metal",
+    "origen": "Alemania",
+    "precio": 830.00,
+    "marca": "Bach",
+    "id": 11,
+    "img":"https://r2.gear4music.com/media/103/1039530/600/preview.jpg"
+  },
+  {
+    "nombre": "Flauta dulce",
+    "tipo": "Viento madera",
+    "origen": "Alemania",
+    "precio": 45.00,
+    "marca": "Yamaha",
+    "id": 12,
+    "img":"https://libreriairbe.com/wp-content/uploads/2021/06/Flauta-Dulce-Soprano-Descant-YAMAHA-YRS-24B.jpg"
+  },
+  {
+    "nombre": "Xilófono",
+    "tipo": "Percusión",
+    "origen": "África",
+    "precio": 210.00,
+    "marca": "Musser",
+    "id": 13,
+    "img":"https://jeffpercussion.com/2672-large_default/musser-xilofono-m51.jpg"
+  },
+  {
+    "nombre": "Bateria acustica",
+    "tipo": "Percusión",
+    "origen": "Japón",
+    "precio": 1350.00,
+    "marca": "Tama",
+    "id": 14,
+    "img":"https://ecomusicweb.com/wp-content/uploads/2024/04/CL72RSPCLP-s.jpg"
+  },
+  {
+    "nombre": "Teclado MIDI",
+    "tipo": "Teclado",
+    "origen": "Japón",
+    "precio": 320.00,
+    "marca": "Korg",
+    "id": 15,
+    "img":"https://mla-s1-p.mlstatic.com/893597-MLA74942136340_032024-F.jpg"
+  },
+  {
+    "nombre": "Sintetizador",
+    "tipo": "Teclado",
+    "origen": "Japón",
+    "precio": 899.00,
+    "marca": "Korg",
+    "id": 16,
+    "img":"https://www.heavenimagenes.com/heavencommerce/961b5d60-56db-4307-96f1-5e634f35a4ea/images/v2/KORG/1803141448026535_01_large.jpg"
+  },
+  {
+    "nombre": "Acordeón",
+    "tipo": "Teclado",
+    "origen": "Italia",
+    "precio": 1120.00,
+    "marca": "Scandalli",
+    "id": 17,
+    "img":"https://http2.mlstatic.com/D_Q_NP_712970-MLA75762233526_042024-O.webp"
+  },
+  {
+    "nombre": "Harmónica",
+    "tipo": "Viento metal",
+    "origen": "Alemania",
+    "precio": 65.00,
+    "marca": "Hohner",
+    "id": 18,
+    "img":"https://hendrix.com.ar/wp-content/uploads/2023/10/ARMONICA-HOHNER-HOT-METAL-3.png"
+  },
+  {
+    "nombre": "Bajo",
+    "tipo": "Cuerda",
+    "origen": "Estados Unidos",
+    "precio": 490.00,
+    "marca": "Fender",
+    "id": 19,
+    "img":"https://compasuno.com.ar/wp-content/uploads/2024/06/Bajo-Fender-Precision-Player-4-Cuerdas-Pau-Ferro-MLA1123121606.jpg"
+  },
+  {
+    "nombre": "Ukelele",
+    "tipo": "Cuerda",
+    "origen": "Hawái",
+    "precio": 130.00,
+    "marca": "Kala",
+    "id": 20,
+    "img":"https://http2.mlstatic.com/D_NQ_NP_748095-MLA25650964875_062017-O.webp"
+  },
+  {
+    "nombre": "Guitarra eléctrica",
+    "tipo": "Cuerda",
+    "origen": "Estados Unidos",
+    "precio": 360.00,
+    "marca": "Gibson",
+    "id": 21,
+    "img":"https://therockstore.com.ar/wp-content/uploads/2021/10/1621295287268.jpg"
+  },
+  {
+    "nombre": "Acordeón",
+    "tipo": "Teclado",
+    "origen": "Italia",
+    "precio": 250.00,
+    "marca": "Heimond",
+    "id": 22,
+    "img":"https://http2.mlstatic.com/D_687534-MLA50801274217_072022-O.jpg"
+  },
+  {
+    "nombre": "Bateria acustica",
+    "tipo": "Percusión",
+    "origen": "Japón",
+    "precio": 300.00,
+    "marca": "Pearl",
+    "id": 23,
+    "img":"https://daiammusica.com.ar/wp-content/uploads/2024/11/Pearl-mmg924xsp-c-854.jpg"
+  },
+  {
+    "nombre": "Pandereta",
+    "tipo": "Percusión",
+    "origen": "España",
+    "precio": 40.00,
+    "marca": "Meinl",
+    "id": 24,
+    "img":"https://http2.mlstatic.com/D_NQ_NP_711453-MLA31610376406_072019-O.webp"
+  },
+  {
+    "nombre": "Triángulo",
+    "tipo": "Percusión",
+    "origen": "Francia",
+    "precio": 20.00,
+    "marca": "LP",
+    "id": 25,
+    "img":"https://www.miche.com.co/cdn/shop/products/TRIA02.png?v=1575383795"
+  },
+  {
+    "nombre": "Campanas tubulares",
+    "tipo": "Percusión",
+    "origen": "Inglaterra",
+    "precio": 1450.00,
+    "marca": "Yamaha",
+    "id": 26,
+    "img":"https://www.trinomusic.com/sites/default/files/styles/producto_full/public/content_images/product/765640.jpg?itok=8k0bcQkk"
+  },
+  {
+    "nombre": "Violonchelo",
+    "tipo": "Cuerda",
+    "origen": "Italia",
+    "precio": 2200.00,
+    "marca": "Cremona",
+    "id": 27,
+    "img":"https://http2.mlstatic.com/D_974220-MLU76896733809_062024-C.jpg"
+  },
+  {
+    "nombre": "Guitarra eléctrica",
+    "tipo": "Cuerda",
+    "origen": "África Occidental",
+    "precio": 180.00,
+    "marca": "Remo",
+    "id": 28,
+    "img":"https://www.mundomusicalcr.com/wp-content/uploads/0901108.jpg"
+  },
+  {
+    "nombre": "Guitarra acústica",
+    "tipo": "Cuerda",
+    "origen": "España",
+    "precio": 150.00,
+    "marca": "Ibanez",
+    "id": 29,
+    "img":"https://mla-s1-p.mlstatic.com/918671-MLA75279589590_032024-F.jpg"
+  },
+  {
+    "nombre": "Charango",
+    "tipo": "Cuerda",
+    "origen": "Bolivia",
+    "precio": 210.00,
+    "marca": "Inka",
+    "id": 30,
+    "img":"https://m.media-amazon.com/images/I/61WRHDdVGvS._UF894,1000_QL80_.jpg"
+  },
+  {
+    "nombre": "Piano digital",
+    "tipo": "Teclado",
+    "origen": "Estados Unidos",
+    "precio": 320.00,
+    "marca": "kurzweil",
+    "id": 31,
+    "img":"https://productos.mjmusic.com.ar/images/0000000000KAE1BK18448KAE1BK-0468-2-scaled.jpg"
+  },
+  {
+    "nombre": "Sitar",
+    "tipo": "Cuerda",
+    "origen": "India",
+    "precio": 540.00,
+    "marca": "Rikhi Ram",
+    "id": 32,
+    "img":"https://collectionapi.metmuseum.org/api/collection/v1/iiif/753628/1874676/restricted"
+  },
+  {
+    "nombre": "Tuba",
+    "tipo": "Viento metal",
+    "origen": "Alemania",
+    "precio": 3000.00,
+    "marca": "Miraphone",
+    "id": 33,
+    "img":"https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_23/239478/19347301_800.jpg"
+  },
+  {
+    "nombre": "Congas",
+    "tipo": "Percusión",
+    "origen": "Cuba",
+    "precio": 480.00,
+    "marca": "LP",
+    "id": 34,
+    "img":"https://http2.mlstatic.com/D_NQ_NP_769273-MLA85935844355_062025-O.webp"
+  },
+  {
+    "nombre": "Bongós",
+    "tipo": "Percusión",
+    "origen": "Cuba",
+    "precio": 220.00,
+    "marca": "Meinl",
+    "id": 35,
+    "img":"https://http2.mlstatic.com/D_NQ_NP_967001-MLU77857284819_072024-O.webp"
+  },
+  {
+    "nombre": "Clarinete",
+    "tipo": "Viento madera",
+    "origen": "Alemania",
+    "precio": 560.00,
+    "marca": "Buffet Crampon",
+    "id": 36,
+    "img":"https://www.gonzalezvientos.com.ar/gvstore/wp-content/uploads/2017/12/Buffet-Crampon-Prodige-02.jpg"
+  },
+  {
+    "nombre": "Saxofón tenor",
+    "tipo": "Viento metal",
+    "origen": "Bélgica",
+    "precio": 1050.00,
+    "marca": "Yamaha",
+    "id": 37,
+    "img":"https://tiendafeedback.com.ar/66464-large_default/saxo-tenor-yamaha-yts62s.jpg"
+  },
+  {
+    "nombre": "Contrabajo",
+    "tipo": "Cuerda",
+    "origen": "Italia",
+    "precio": 2600.00,
+    "marca": "Stentor",
+    "id": 38,
+    "img":"https://tienda.musicalprincesa.com/25374-large_default/contrabajo-stentor-rock-a-billy-3-4.jpg"
+  },
+  {
+    "nombre": "Cajón peruano",
+    "tipo": "Percusión",
+    "origen": "Perú",
+    "precio": 150.00,
+    "marca": "A Tempo",
+    "id": 39,
+    "img":"https://d1abyhu02s963u.cloudfront.net/wp-content/uploads/2020/10/ATempo-Percussion-Cajon-Clasico-Estandar-2-300x300.jpg"
+  },
+  {
+    "nombre": "Piano vertical",
+    "tipo": "Teclado",
+    "origen": "Japón",
+    "precio": 2200.00,
+    "marca": "Kawai",
+    "id": 40,
+    "img":"https://http2.mlstatic.com/D_NQ_NP_761305-MLA31583195846_072019-O.webp"
+  }
+]
